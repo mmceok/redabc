@@ -1,0 +1,11 @@
+{
+    "name": "red/abc",
+    "description": "123",
+    "authors": [
+        {
+            "name": "red",
+            "email": "mmceok@163.com"
+        }
+    ],
+    "require": {}
+}
