@@ -7,5 +7,10 @@
             "email": "mmceok@163.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Redblue\\Abc\\": "src/"
+        }
+    },
     "require": {}
 }
