@@ -12,5 +12,6 @@
             "Redblue\\Abc\\": "src/"
         }
     },
+    "license": "MIT",
     "require": {}
 }
